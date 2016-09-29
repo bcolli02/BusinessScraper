@@ -1,0 +1,9 @@
+# ignore ensime
+.ensime*
+
+# ignore target and project
+target/
+project/
+
+# ignore saved files
+*~
